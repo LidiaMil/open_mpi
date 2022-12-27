@@ -1,0 +1,3 @@
+/home/mugz3m/University/concurrency/mpi-lab-4/cmake-build-debug/CMakeFiles/mpi-lab-4.dir
+/home/mugz3m/University/concurrency/mpi-lab-4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mugz3m/University/concurrency/mpi-lab-4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
