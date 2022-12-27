@@ -1,4 +1,4 @@
-# Install script for directory: /home/mugz3m/University/concurrency/mpi-lab-6
+# Install script for directory: /home/LidiaMil/University/concurrency/mpi-lab-6
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/mugz3m/University/concurrency/mpi-lab-6/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/LidiaMil/University/concurrency/mpi-lab-6/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

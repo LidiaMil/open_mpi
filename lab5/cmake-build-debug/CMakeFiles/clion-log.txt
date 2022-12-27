@@ -1,4 +1,4 @@
-/home/mugz3m/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/mugz3m/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/linux/ninja -G Ninja -S /home/mugz3m/University/third-year/concurrency/mpi-lab-5 -B /home/mugz3m/University/third-year/concurrency/mpi-lab-5/cmake-build-debug
+/home/LidiaMil/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/LidiaMil/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/linux/ninja -G Ninja -S /home/LidiaMil/University/third-year/concurrency/mpi-lab-5 -B /home/LidiaMil/University/third-year/concurrency/mpi-lab-5/cmake-build-debug
 -- The C compiler identification is GNU 12.2.1
 -- The CXX compiler identification is unknown
 -- Detecting C compiler ABI info
@@ -15,5 +15,5 @@ CMake Error at CMakeLists.txt:2 (project):
 
 
 -- Configuring incomplete, errors occurred!
-See also "/home/mugz3m/University/third-year/concurrency/mpi-lab-5/cmake-build-debug/CMakeFiles/CMakeOutput.log".
-See also "/home/mugz3m/University/third-year/concurrency/mpi-lab-5/cmake-build-debug/CMakeFiles/CMakeError.log".
+See also "/home/LidiaMil/University/third-year/concurrency/mpi-lab-5/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/LidiaMil/University/third-year/concurrency/mpi-lab-5/cmake-build-debug/CMakeFiles/CMakeError.log".

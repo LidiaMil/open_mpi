@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/mugz3m/University/concurrency/mpi-lab-5/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/LidiaMil/University/concurrency/mpi-lab-5/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -23,10 +23,10 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/home/mugz3m/University/concurrency/mpi-lab-5/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/home/LidiaMil/University/concurrency/mpi-lab-5/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.out"
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/mugz3m/University/concurrency/mpi-lab-5/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/LidiaMil/University/concurrency/mpi-lab-5/cmake-build-debug/CMakeFiles/CMakeTmp
 
 Run Build Command(s):/snap/clion/218/bin/ninja/linux/ninja cmTC_1b20f && [1/2] Building C object CMakeFiles/cmTC_1b20f.dir/CMakeCCompilerABI.c.o
 Using built-in specs.
@@ -101,7 +101,7 @@ Parsed C implicit include dir info from above output: rv=done
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/mugz3m/University/concurrency/mpi-lab-5/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/LidiaMil/University/concurrency/mpi-lab-5/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
   ignore line: [Run Build Command(s):/snap/clion/218/bin/ninja/linux/ninja cmTC_1b20f && [1/2] Building C object CMakeFiles/cmTC_1b20f.dir/CMakeCCompilerABI.c.o]
   ignore line: [Using built-in specs.]
@@ -221,7 +221,7 @@ Parsed C implicit link information from above output:
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/mugz3m/University/concurrency/mpi-lab-5/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/LidiaMil/University/concurrency/mpi-lab-5/cmake-build-debug/CMakeFiles/CMakeTmp
 
 Run Build Command(s):/snap/clion/218/bin/ninja/linux/ninja cmTC_2bb1c && [1/2] Building CXX object CMakeFiles/cmTC_2bb1c.dir/CMakeCXXCompilerABI.cpp.o
 Using built-in specs.
@@ -306,7 +306,7 @@ Parsed CXX implicit include dir info from above output: rv=done
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/mugz3m/University/concurrency/mpi-lab-5/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/LidiaMil/University/concurrency/mpi-lab-5/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
   ignore line: [Run Build Command(s):/snap/clion/218/bin/ninja/linux/ninja cmTC_2bb1c && [1/2] Building CXX object CMakeFiles/cmTC_2bb1c.dir/CMakeCXXCompilerABI.cpp.o]
   ignore line: [Using built-in specs.]

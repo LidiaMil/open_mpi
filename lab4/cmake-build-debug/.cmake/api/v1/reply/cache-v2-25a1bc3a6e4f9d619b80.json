@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mugz3m/University/third-year/concurrency/mpi-lab-4/cmake-build-debug"
+			"value" : "/home/LidiaMil/University/third-year/concurrency/mpi-lab-4/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -103,7 +103,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mugz3m/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake"
+			"value" : "/home/LidiaMil/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mugz3m/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cpack"
+			"value" : "/home/LidiaMil/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cpack"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -127,7 +127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mugz3m/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/ctest"
+			"value" : "/home/LidiaMil/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/ctest"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -411,7 +411,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mugz3m/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/ccmake"
+			"value" : "/home/LidiaMil/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/ccmake"
 		},
 		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
@@ -591,7 +591,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mugz3m/University/third-year/concurrency/mpi-lab-4"
+			"value" : "/home/LidiaMil/University/third-year/concurrency/mpi-lab-4"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -643,7 +643,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/home/mugz3m/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/linux/ninja"
+			"value" : "/home/LidiaMil/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/linux/ninja"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mugz3m/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/share/cmake-3.23"
+			"value" : "/home/LidiaMil/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/share/cmake-3.23"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1123,7 +1123,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/mugz3m/University/third-year/concurrency/mpi-lab-4/cmake-build-debug"
+			"value" : "/home/LidiaMil/University/third-year/concurrency/mpi-lab-4/cmake-build-debug"
 		},
 		{
 			"name" : "lab_10_IS_TOP_LEVEL",
@@ -1147,7 +1147,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/mugz3m/University/third-year/concurrency/mpi-lab-4"
+			"value" : "/home/LidiaMil/University/third-year/concurrency/mpi-lab-4"
 		},
 		{
 			"name" : "mpi-lab-4_BINARY_DIR",
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/mugz3m/University/third-year/concurrency/mpi-lab-4/cmake-build-debug"
+			"value" : "/home/LidiaMil/University/third-year/concurrency/mpi-lab-4/cmake-build-debug"
 		},
 		{
 			"name" : "mpi-lab-4_IS_TOP_LEVEL",
@@ -1183,7 +1183,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/mugz3m/University/third-year/concurrency/mpi-lab-4"
+			"value" : "/home/LidiaMil/University/third-year/concurrency/mpi-lab-4"
 		}
 	],
 	"kind" : "cache",

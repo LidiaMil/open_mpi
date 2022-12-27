@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /home/mugz3m/University/concurrency/mpi-lab-6/cmake-build-debug/
+cmake_ninja_workdir = /home/LidiaMil/University/concurrency/mpi-lab-6/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target mpi_lab_6
 
@@ -49,14 +49,14 @@ cmake_ninja_workdir = /home/mugz3m/University/concurrency/mpi-lab-6/cmake-build-
 
 build cmake_object_order_depends_target_mpi_lab_6: phony || CMakeFiles/mpi_lab_6.dir
 
-build CMakeFiles/mpi_lab_6.dir/ring.cpp.o: CXX_COMPILER__mpi_lab_6_Debug /home/mugz3m/University/concurrency/mpi-lab-6/ring.cpp || cmake_object_order_depends_target_mpi_lab_6
+build CMakeFiles/mpi_lab_6.dir/ring.cpp.o: CXX_COMPILER__mpi_lab_6_Debug /home/LidiaMil/University/concurrency/mpi-lab-6/ring.cpp || cmake_object_order_depends_target_mpi_lab_6
   DEP_FILE = CMakeFiles/mpi_lab_6.dir/ring.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++20
   INCLUDES = -I/usr/include/x86_64-linux-gnu/mpi
   OBJECT_DIR = CMakeFiles/mpi_lab_6.dir
   OBJECT_FILE_DIR = CMakeFiles/mpi_lab_6.dir
 
-build CMakeFiles/mpi_lab_6.dir/star.cpp.o: CXX_COMPILER__mpi_lab_6_Debug /home/mugz3m/University/concurrency/mpi-lab-6/star.cpp || cmake_object_order_depends_target_mpi_lab_6
+build CMakeFiles/mpi_lab_6.dir/star.cpp.o: CXX_COMPILER__mpi_lab_6_Debug /home/LidiaMil/University/concurrency/mpi-lab-6/star.cpp || cmake_object_order_depends_target_mpi_lab_6
   DEP_FILE = CMakeFiles/mpi_lab_6.dir/star.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++20
   INCLUDES = -I/usr/include/x86_64-linux-gnu/mpi
@@ -84,7 +84,7 @@ build mpi_lab_6: CXX_EXECUTABLE_LINKER__mpi_lab_6_Debug CMakeFiles/mpi_lab_6.dir
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/mugz3m/University/concurrency/mpi-lab-6/cmake-build-debug && /snap/clion/218/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /home/LidiaMil/University/concurrency/mpi-lab-6/cmake-build-debug && /snap/clion/218/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -95,7 +95,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/mugz3m/University/concurrency/mpi-lab-6/cmake-build-debug && /snap/clion/218/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/mugz3m/University/concurrency/mpi-lab-6 -B/home/mugz3m/University/concurrency/mpi-lab-6/cmake-build-debug
+  COMMAND = cd /home/LidiaMil/University/concurrency/mpi-lab-6/cmake-build-debug && /snap/clion/218/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/LidiaMil/University/concurrency/mpi-lab-6 -B/home/LidiaMil/University/concurrency/mpi-lab-6/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -111,7 +111,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 #############################################
-# Folder: /home/mugz3m/University/concurrency/mpi-lab-6/cmake-build-debug
+# Folder: /home/LidiaMil/University/concurrency/mpi-lab-6/cmake-build-debug
 
 build all: phony mpi_lab_6
 
@@ -122,14 +122,14 @@ build all: phony mpi_lab_6
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | /home/mugz3m/University/concurrency/mpi-lab-6/CMakeLists.txt /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeCInformation.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeCXXInformation.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeGenericSystem.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/GNU-C.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/GNU.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux-GNU-C.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux-GNU-CXX.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux-GNU.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | /home/LidiaMil/University/concurrency/mpi-lab-6/CMakeLists.txt /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeCInformation.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeCXXInformation.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeGenericSystem.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/GNU-C.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/GNU.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux-GNU-C.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux-GNU-CXX.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux-GNU.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /home/mugz3m/University/concurrency/mpi-lab-6/CMakeLists.txt /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeCInformation.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeCXXInformation.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeGenericSystem.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/GNU-C.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/GNU.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux-GNU-C.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux-GNU-CXX.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux-GNU.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake: phony
+build /home/LidiaMil/University/concurrency/mpi-lab-6/CMakeLists.txt /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeCInformation.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeCXXInformation.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeGenericSystem.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/GNU-C.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/GNU.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux-GNU-C.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux-GNU-CXX.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux-GNU.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux.cmake /snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake: phony
 
 
 #############################################

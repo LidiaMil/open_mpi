@@ -1,4 +1,4 @@
-/home/mugz3m/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/mugz3m/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/linux/ninja -G Ninja -S /home/mugz3m/University/third-year/concurrency/mpi-lab-4 -B /home/mugz3m/University/third-year/concurrency/mpi-lab-4/cmake-build-debug
+/home/LidiaMil/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/LidiaMil/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/linux/ninja -G Ninja -S /home/LidiaMil/University/third-year/concurrency/mpi-lab-4 -B /home/LidiaMil/University/third-year/concurrency/mpi-lab-4/cmake-build-debug
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/mugz3m/University/third-year/concurrency/mpi-lab-4/cmake-build-debug
+-- Build files have been written to: /home/LidiaMil/University/third-year/concurrency/mpi-lab-4/cmake-build-debug

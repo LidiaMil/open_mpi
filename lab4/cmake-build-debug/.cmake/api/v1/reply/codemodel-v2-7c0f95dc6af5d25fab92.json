@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/mugz3m/University/third-year/concurrency/mpi-lab-4/cmake-build-debug",
-		"source" : "/home/mugz3m/University/third-year/concurrency/mpi-lab-4"
+		"build" : "/home/LidiaMil/University/third-year/concurrency/mpi-lab-4/cmake-build-debug",
+		"source" : "/home/LidiaMil/University/third-year/concurrency/mpi-lab-4"
 	},
 	"version" : 
 	{
